@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 hhhh
 merge
 hhh
+git stash.
